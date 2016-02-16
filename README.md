@@ -11,3 +11,8 @@ Ready](https://badge.waffle.io/ottlinger/SonarAnalysisPrinter.svg?label=ready&ti
 y)](http://waffle.io/ottlinger/SonarAnalysisPrinter)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/ab19f8aeeb264e0bbad1740e07a765aa)](https://www.codacy.com/app/github_25/SonarAnalysisPrinter)
+
+## Motivation
+
+The current sonar does not provide a meaningful means to batch-extract project settings.
+Currently one can only click a history per project.
