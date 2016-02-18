@@ -19,8 +19,9 @@ import static org.junit.Assert.assertNotNull;
 
 public class ApplicationTest {
     @Test
-    public void testLaunch() {
+    public void testLaunch() throws Exception {
         Application app = new Application();
         assertNotNull(app);
+        app.run();
     }
 }
