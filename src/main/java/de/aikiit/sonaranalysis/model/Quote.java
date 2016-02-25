@@ -21,9 +21,6 @@ public class Quote {
     private String type;
     private Value value;
 
-    public Quote() {
-    }
-
     public String getType() {
         return type;
     }

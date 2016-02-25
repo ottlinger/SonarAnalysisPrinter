@@ -21,9 +21,6 @@ public class Value {
     private Long id;
     private String quote;
 
-    public Value() {
-    }
-
     public Long getId() {
         return this.id;
     }
