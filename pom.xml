@@ -13,7 +13,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.3.7.RELEASE</version>
+        <version>1.4.0.RELEASE</version>
     </parent>
     <url>https://github.com/ottlinger/SonarAnalysisPrinter</url>
     <organization>
@@ -47,7 +47,7 @@
         <mockito.version>1.10.19</mockito.version>
         <cobertura.version>2.6</cobertura.version>
         <lombok.version>1.16.8</lombok.version>
-        <javadoc.version>2.10.3</javadoc.version>
+        <javadoc.version>2.10.4</javadoc.version>
         <surefire.version>2.19.1</surefire.version>
         <rat.version>0.12</rat.version>
         <guava.version>19.0</guava.version>
