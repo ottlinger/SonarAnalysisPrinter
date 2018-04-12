@@ -46,7 +46,7 @@
         <junit.version>4.12</junit.version>
         <mockito.version>1.10.19</mockito.version>
         <cobertura.version>2.6</cobertura.version>
-        <lombok.version>1.16.8</lombok.version>
+        <lombok.version>1.16.20</lombok.version>
         <javadoc.version>2.10.4</javadoc.version>
         <surefire.version>2.19.1</surefire.version>
         <rat.version>0.12</rat.version>
@@ -249,7 +249,7 @@
             </plugin>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.3</version>
+                <version>3.6.2</version>
                 <configuration>
                     <encoding>${encoding.utf8}</encoding>
                     <source>1.8</source>
