@@ -2,8 +2,8 @@ language: java
 jdk:
   - openjdk8
   - openjdk9
-  - openjdk10
 # 20200308 more modern JDK builds fail regularly
+#  - openjdk10
 #  - openjdk11
 #  - openjdk12
 #  - openjdk13
