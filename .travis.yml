@@ -3,9 +3,10 @@ jdk:
   - openjdk8
   - openjdk9
   - openjdk10
-  - openjdk11
-  - openjdk12
-  - openjdk13
+# 20200308 more modern JDK builds fail regularly
+#  - openjdk11
+#  - openjdk12
+#  - openjdk13
 addons:
   apt:
     packages:
