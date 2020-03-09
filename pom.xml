@@ -45,7 +45,7 @@
         <logger.version>1.2.17</logger.version>
         <junit.version>4.12</junit.version>
         <mockito.version>1.10.19</mockito.version>
-        <cobertura.version>2.6</cobertura.version>
+        <cobertura.version>2.7</cobertura.version>
         <lombok.version>1.16.20</lombok.version>
         <javadoc.version>2.10.4</javadoc.version>
         <surefire.version>3.0.0-M4</surefire.version>
