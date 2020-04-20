@@ -47,7 +47,7 @@
         <mockito.version>1.10.19</mockito.version>
         <cobertura.version>2.7</cobertura.version>
         <lombok.version>1.18.12</lombok.version>
-        <javadoc.version>3.1.1</javadoc.version>
+        <javadoc.version>3.2.0</javadoc.version>
         <surefire.version>3.0.0-M4</surefire.version>
         <rat.version>0.13</rat.version>
         <guava.version>29.0-jre</guava.version>
