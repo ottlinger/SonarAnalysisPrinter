@@ -33,7 +33,7 @@ public class Application implements CommandLineRunner {
     @Override
     public void run(String... strings) throws Exception {
         RestTemplate restTemplate = new RestTemplate();
-        Quote quote = restTemplate.getForObject("http://gturnquist-quoters.cfapps.io/api/random", Quote.class);
+        Quote quote = restTemplate.getForObject("https://gturnquist-quoters.cfapps.io/api/random", Quote.class);
         log.info(quote.toString());
         log.info("Application finished successfully.");
     }
