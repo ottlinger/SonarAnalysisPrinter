@@ -172,6 +172,7 @@
                             <exclude>**/site*/**</exclude>
                             <exclude>**/*.log</exclude>
                             <exclude>**/.checkstyle/**/*</exclude>
+                            <exclude>**/.github/**/*</exclude>
                             <exclude>**/.gitignore</exclude>
                         </excludes>
                     </configuration>
