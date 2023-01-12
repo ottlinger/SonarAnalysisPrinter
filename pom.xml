@@ -48,7 +48,7 @@
         <cobertura.version>2.7</cobertura.version>
         <lombok.version>1.18.24</lombok.version>
         <javadoc.version>3.4.1</javadoc.version>
-        <surefire.version>3.0.0-M7</surefire.version>
+        <surefire.version>3.0.0-M8</surefire.version>
         <rat.version>0.15</rat.version>
         <guava.version>31.1-jre</guava.version>
         <encoding.utf8>UTF-8</encoding.utf8>
