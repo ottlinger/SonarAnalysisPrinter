@@ -46,7 +46,7 @@
         <junit.version>4.13.2</junit.version>
         <mockito.version>1.10.19</mockito.version>
         <cobertura.version>2.7</cobertura.version>
-        <lombok.version>1.18.24</lombok.version>
+        <lombok.version>1.18.26</lombok.version>
         <javadoc.version>3.4.1</javadoc.version>
         <surefire.version>3.0.0-M8</surefire.version>
         <rat.version>0.15</rat.version>
